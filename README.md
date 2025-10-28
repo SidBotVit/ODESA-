@@ -58,6 +58,6 @@ Description: (Example) “AI-powered interview and career simulation platform bu
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/odesa.git
+git clone https://github.com/SidBotVit/odesa.git
 cd odesa
 
